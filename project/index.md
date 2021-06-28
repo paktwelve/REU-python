@@ -1,3 +1,3 @@
-# AI Time Analysis
+# AI Time Series Analysis
 
 Content
